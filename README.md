@@ -1,5 +1,5 @@
 # ToDoWTime
-iOS ToDo application - Swift, SwiftUI and Firebase. Stored location is 'master' bench. The primary purpose of developing this application is to improve iOS engineering skills. 
+iOS ToDo application - Swift, SwiftUI and Firebase. ```Stored location is 'master' bench. ``` The primary purpose of developing this application is to improve iOS engineering skills. 
 
 ## Reference
 https://www.youtube.com/watch?v=t_mypMqSXNw
