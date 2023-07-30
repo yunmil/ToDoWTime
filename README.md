@@ -1,4 +1,4 @@
-# ToDoWTime
+# ToDoWTime 1.0.0 (last update: 7/30/2023) 
 iOS ToDo application - Swift, SwiftUI and Firebase. ```Stored location is 'master' bench. ``` The primary purpose of developing this application is to improve iOS engineering skills. 
 
 ## Reference
