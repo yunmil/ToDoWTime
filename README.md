@@ -11,6 +11,9 @@ https://www.youtube.com/watch?v=t_mypMqSXNw
 ### Sign-in image 
 <img src="https://github.com/yunmil/ToDoWTime/blob/main/readme-assests/Simulator%20Screenshot%20-%20iPhone%2014%20Pro%20-%202023-07-30%20at%2020.37.38.png" width ="50%" >
 
+### To-Do (Home) image 
+<img src="https://github.com/yunmil/ToDoWTime/blob/main/readme-assests/Simulator%20Screenshot%20-%20iPhone%2014%20Pro%20-%202023-07-30%20at%2020.47.07.png" width ="50%">
+
 ## Debugging diary
 
 ##### 1. Debug the error of 'member since' at Profile section 
